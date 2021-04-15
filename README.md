@@ -1,25 +1,33 @@
-# jwj0901.github.io
+---
+layout: page
+title: About
+permalink: /about/
+---
 
+## Theme Monos
+> Simple and lightweight theme for Jekyll
 
-[GOOGLE](https://google.com)
+### Features
+- Responsive.
+- Syntax Highlight
+- Most optimized theme for tech blog.
+- Lightweight with minimum stylesheet.
+- Easy to customize.
+- Offers category menu.
 
-[NAVER](https://naver.com "링크 설명(title)을 작성하세요.")
+### _config.yml
+> Code block will look like this.
+```yml
+highlighter-theme: monokai //you can change your syntax color scheme.
+date_format: "%Y-%M-%D" //and date format.
+```
 
-[상대적 참조](../users/login)
-
-[Dribbble][Dribbble link]
-
-[GitHub][1]
-
-문서 안에서 [참조 링크]를 그대로 사용할 수도 있습니다.
-
-다음과 같이 문서 내 일반 URL이나 꺾쇠 괄호(`< >`, Angle Brackets)안의 URL은 자동으로 링크를 사용합니다.
-구글 홈페이지: https://google.com
-네이버 홈페이지: <https://naver.com>
-
-[Dribbble link]: https://dribbble.com
-[1]: https://github.com
-[참조 링크]: https://naver.com "네이버로 이동합니다!"
-
-
-[index.html] : index.html
+### Screenshots
+#### Page
+![alt text](/public/img/screenshot-1.png)
+#### Articles
+![alt text](/public/img/screenshot-2.png)
+#### Page - Mobile
+![alt text](/public/img/screenshot-m1.png)
+#### Page - Articles
+![alt text](/public/img/screenshot-m2.png)
