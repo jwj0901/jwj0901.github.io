@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Monos
-email: jwj0901@gmail.com
+title: "github blog"
+email: "jwj0901@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Themed by ejjoo
+  "Themed by ejjoo"
  baseurl: "/" # the subpath of your site, e.g. /blog
  url: "https://jwj0901.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: jwj0901
-highlighter: rouge
+github_username: "jwj0901"
+highlighter: "rouge"
 svg:
   optimize: true
 # Build settings
